@@ -1,12 +1,12 @@
 <h1 align="center">Hii👋</h1>
 
+
+
+# 👩‍💻 About Me:
+
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm  Vikram  <br><br>- 🔭 Student of Computer science Specializing in artificial Intelligence & Machine Learning at siddaganga Institue of Technology<br>- 📚 I'm Exploring in Data Structure and Algorithms using c++<br>- ⚡ Passionate about the Coding , outdoors and the sport of cricket. Whether I'm scaling a mountain, delving into a new subject, or playing on the cricket field, I'm all in."</p>
+<p align="left">  <i>I'm  Vikram</i>  <br><br>- 🔭 Student of Computer science Specializing in artificial Intelligence & Machine Learning at siddaganga Institue of Technology<br>- 📚 I'm Exploring in Data Structure and Algorithms using c++<br>- ⚡ Passionate about the Coding , outdoors and the sport of cricket. Whether I'm scaling a mountain, delving into a new subject, or playing on the cricket field, I'm all in."</p>
 
 ###
 
