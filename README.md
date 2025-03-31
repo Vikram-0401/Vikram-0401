@@ -29,13 +29,4 @@ I'm **Vikram**
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/VikramS87249739)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/vikram0401/)
 
-## 📊 GitHub Stats
 
-<!-- Removed stars and issues, focused on contributions -->
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Vikram-0401&show_icons=true&theme=radical&count_private=true&hide=stars,issues)
-
-<!-- Total contributions and streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vikram-0401&theme=radical&hide_border=false)
-
-<!-- Languages -->
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vikram-0401&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
