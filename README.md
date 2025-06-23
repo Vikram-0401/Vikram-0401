@@ -21,7 +21,7 @@ I'm **Vikram**
 
 ### Tools & Technologies
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /></a> 
+  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" /></a> 
 </p>
 
 ## 📫 Connect With Me
